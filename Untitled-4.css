@@ -1,0 +1,76 @@
+
+@charset "UTF-8";
+/* CSS Document */
+*{box-sizing: border-box}
+body{
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"; fonts-size: 16px; color:#666666; margin: 0
+}
+.img-100{
+	
+	width: 100%;heght: auto
+}
+	.container{
+		width: 80;margin: 0 auto			
+}
+header{
+	width: 100%;height: 50px;background-color: #FAAD42
+}
+.menu{
+float: right; padding-top: 20px;
+}
+.logo{
+	float: left
+}
+.menu a{ 
+	padding: 10px 20px; text-decoration: none; color: white; font-size: 17px; font-weight: bold
+}
+.menu a:hover{
+	color: blue
+}
+main{
+	width: 100%;min-height: 500px; clear: both
+}
+.w-25{
+	width: 25%;padding: 15px; float: left
+}
+.vien{
+	width: 100%; min-height: 200px;border: 1px solid blue; border-radius: 10px;padding: 10px;text-alrigh: center; margin: 30px 0
+}
+.bo-goc{
+	border-radius: 10px
+}
+.tour{
+	font-size: 18px
+}
+.gia{
+	color: red; font-weight: bold
+}
+footer{
+	width: 100%;height: 50px; background-color: #FAAD42; clear: both;text-align:center;line-height: 50px;color: white
+}
+.form-control{
+	padding: 8px; margin-bottom: 10px; width: 100%
+}
+.nut{
+	margin-top: 10px; padding: 10px 20px; background-color:#4B63F0; color: white; border-radius: 20px; border: none; cursor: pointer; margmargin-right: 20px
+}
+.bg-do {
+	background-color: #F05255
+}
+.w-40{
+	width: 40%; padding: 15px; float:left
+}
+.w-60{
+	width: 60%; padding: 15px; float: left
+}
+.text-xanh{
+	color: blue
+}
+.text-xam{
+	border: 1px solid gray; bborder-radius: 10px; margin-top: 40px; padding: 10px
+}
+.vien-xam{
+	border: 1px solid gray;border-radius: 10px;margin-top: 40px; padding: 10px
+}
+
+
